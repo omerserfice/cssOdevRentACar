@@ -1,0 +1,68 @@
+nav{
+    position:relative;
+}
+nav ul {
+    text-align: center;
+}
+nav li{
+    position:relative;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    background-color: #1A374D;
+    border-radius: 5px;
+    justify-content: center;
+}
+nav li a {
+    text-decoration: none;
+    color:#6998AB ;
+    font-family: 'Raleway', sans-serif;
+    
+    
+}
+nav li a:hover{
+    color: #B1D0E0;
+   
+}
+ .baslik{
+     text-align: center;
+     font-size: 60px;
+     font-family: 'Raleway', sans-serif;
+     color: #1A374D;
+     text-shadow: 3px 4px 3px #1A374D;
+ }
+ p{
+     text-align: center;
+     font-size: 14px;
+     font-family: 'Raleway', sans-serif;
+ }
+
+ .image{
+    position: relative;
+    text-align: center;
+   
+ }
+ .image img{
+    border: 1px solid #6998AB;
+    border-radius: 10%;
+    width: 400px;
+ }
+ footer{
+     background-color: #1A374D;
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+  
+     color: #6998AB;
+     text-align: center;
+ }
+ .footerText{
+    font-family: 'Raleway', sans-serif;
+ }
+ section h3,p{
+     text-align: center;
+     padding: 5px;
+     padding-left: 15px;
+     color: #1A374D;
+ }
